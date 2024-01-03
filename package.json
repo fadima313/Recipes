@@ -1,13 +1,21 @@
 {
-  "name": "projet",
+  "name": "recipes",
   "version": "1.0.0",
-  "description": "",
+  "description": "Un projet Node.js et MongoDB pour gerer les recettes.",
   "main": "Routage.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "fadima",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadima313/Recipes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fadima313/Recipes/issues"
+  },
+  "homepage": "https://github.com/fadima313/Recipes#readme"
 }
